@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /vendor/
+Disallow: /PHPMailer/
+
+# Sitemaps
+Sitemap: https://cortia.com.ng/sitemap.xml
+
+# Crawl Delay
+Crawl-delay: 1
